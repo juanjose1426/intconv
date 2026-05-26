@@ -1,0 +1,23 @@
+{
+  "name": "Conversor Inteligente",
+  "short_name": "Conversor",
+  "description": "Convierte monedas con tasas en tiempo real y temperaturas entre Celsius, Fahrenheit y Kelvin",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F6F2",
+  "theme_color": "#378ADD",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2489/2489756.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2489/2489756.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
