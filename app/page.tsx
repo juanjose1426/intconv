@@ -12,7 +12,7 @@ export default function Page() {
 
   return (
     <main className="main">
-      <p className="app-eyebrow">Conversor inteligente</p>
+      <p className="app-eyebrow">Conversor inteligente 🐽 </p>
 
       <div className="tabs">
         <button
